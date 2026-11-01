@@ -1,0 +1,6 @@
+{
+  "name": "Hermetica",
+  "description": "An esoteric grimoire and interactive alchemical laboratory delving into the Kybalion, Hermetic principles, ancient philosophy, and mystical psychology with daily AI revelations and gamified artifacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
